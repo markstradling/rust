@@ -9,5 +9,7 @@ fn main() {
         print!("{number}\t");
     }
     println!("");
-    print!("more things")
+    print!("more things");
+    println!("\tthis is the next line");
+
 }
